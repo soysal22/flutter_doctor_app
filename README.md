@@ -3,7 +3,7 @@
 
 ###  MyTeacher => #Milhan https://github.com/Milhan
 
-Bu TasarımLARI Örnek Alarak Flutter Üzerinden Tasarladım => https://www.uplabs.com/posts/doctor-consultation-4e6c918b-267d-4bc5-adf8-e8034143630e
+Bu Tasarımı Örnek Alarak Flutter Üzerinden Tasarladım => https://www.uplabs.com/posts/doctor-consultation-4e6c918b-267d-4bc5-adf8-e8034143630e
 
 ![doctor](https://github.com/soysal22/flutter_doctor_app/assets/92873250/f8ad437b-086b-4961-a109-b4d92d40b835)
 
