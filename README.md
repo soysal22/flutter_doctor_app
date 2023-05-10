@@ -9,11 +9,7 @@ Bu TasarımLARI Örnek Alarak Flutter Üzerinden Tasarladım => https://www.upla
 
 
  ##  =>  MY WORK 
- 
-
-
-
-
+ #
 
  <table>
   <tr>
@@ -23,7 +19,7 @@ Bu TasarımLARI Örnek Alarak Flutter Üzerinden Tasarladım => https://www.upla
         <figcaption style="position: absolute;  ">App İcon</figcaption>
       </figure>
     </td>
-    td>
+    <td>
       <figure style="position: relative;">
        <img src="https://github.com/soysal22/flutter_doctor_app/assets/92873250/21bb7a56-a826-42e1-9eba-e345f62528d3" width=300 height=600 object-fit: fill> 
         <figcaption style="position: absolute; top: 0; left: 0;"> Info Page</figcaption>
@@ -35,7 +31,7 @@ Bu TasarımLARI Örnek Alarak Flutter Üzerinden Tasarladım => https://www.upla
         <figcaption style="position: absolute; top: 0; left: 0;">Home Page</figcaption>
       </figure>
     </td>
-    <
+    
   </tr>
 </table>
 
